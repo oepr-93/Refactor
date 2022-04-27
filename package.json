@@ -66,6 +66,7 @@
     "get-stream": "^6.0.1",
     "glob": "^7.2.0",
     "globals": "^11.12.0",
+    "globalthis": "^1.0.2",
     "graceful-fs": "^4.2.10",
     "has": "^1.0.3",
     "has-flag": "^4.0.0",
