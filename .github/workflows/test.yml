@@ -4,7 +4,7 @@ on: [push]
 
 jobs:
   build:
-    runs-on: macos-latest
+    runs-on: linux-latest
     steps:
     - uses: actions/checkout@v1
     - name: Run Jest
