@@ -1,7 +1,6 @@
 {
-  "name": "refactoring_fizzbuzz",
+  "name": "npm-restart",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "directories": {
     "lib": "lib",
@@ -201,11 +200,20 @@
     "fsevents": "^2.3.2"
   },
   "devDependencies": {
-    "jest": "^28.0.1"
+    "jest": "^26.0.0"
   },
   "scripts": {
     "test": "node ./node_modules/.bin/jest"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oepr-93/Refactor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oepr-93/Refactor/issues"
+  },
+  "homepage": "https://github.com/oepr-93/Refactor#readme",
+  "description": ""
 }
