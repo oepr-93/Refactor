@@ -200,8 +200,10 @@
     "fsevents": "^2.3.2"
   },
   "devDependencies": {
-    "jest": "^26.0.0"
+    "jest": "^26.0.0",
+    "jest-environment-jsdom": "^27.0.6"
   },
+  "resolutions": { 		"jest-environment-jsdom": "^27" 	},
   "scripts": {
     "test": "node ./node_modules/.bin/jest"
   },
